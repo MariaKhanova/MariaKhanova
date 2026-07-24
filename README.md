@@ -74,6 +74,13 @@
   
 </div>
 
+
+### ✏️ Test Artifacts
+
+* [Webshop-Tricentis-demo-testing](https://github.com/MariaKhanova/Webshop-Tricentis-demo-testing-.git) - исследовательское и функциональное тестирование
+ 
+
+
 ---
 
 <!-- ### 💻 Пройденные курсы:
