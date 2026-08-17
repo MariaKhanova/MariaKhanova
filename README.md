@@ -12,18 +12,16 @@
 
 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](masha6khanova@gmail.com)
+<h3 align="center">📫 Как связаться со мной:</h3>
+<p align="center">
+    <a href="https://t.me/Kiselechek_666">
+    <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/>
+  </a>
+  <a href="mailto:masha6khanova@gmail.com">
+    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Email"/>
+  </a>
+</p> 
 
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
 
 ---
 
