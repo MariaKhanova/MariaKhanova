@@ -46,8 +46,13 @@
 
 <h2> ✏️ Artifacts for testing </h2>
 
-* [Webshop-Tricentis-demo-testing](https://github.com/MariaKhanova/Webshop-Tricentis-demo-testing-.git) - исследовательское и функциональное тестирование
- 
+* [Webshop-Tricentis-demo-testing](https://github.com/MariaKhanova/Webshop-Tricentis-demo-testing-.git) - Исследовательское и функциональное тестирование.
+* [Git](https://github.com/MariaKhanova/Git) - Создание репозитория, добавление в него новых файлов, содание веток и др.
+* [Postman](https://github.com/MariaKhanova/Postman) -Создание коллекции REST и SOAP в Postman.
+* [MySQL](https://github.com/MariaKhanova/MySQL-) - Запросы MySQL SELECT JOIN.
+* [portfolio-html ](https://github.com/MariaKhanova/portfolio-html) - Создания структурированной веб-страницы с использованием языка HTML.
+ ---
+
 <h2>✏️ Artifacts for encoding </h2>
 
 * [DataCleaningProject](https://github.com/MariaKhanova/DataCleaningProject.git) - Проeкт по очистке данных
